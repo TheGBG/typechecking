@@ -31,4 +31,4 @@ jobs:
     - name: Typecheck with mypy
       run: |
         # TODO: run it only on changed files!
-        python tools/run_mypy.py
+        python ./tools/run_mypy.py
