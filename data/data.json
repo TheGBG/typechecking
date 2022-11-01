@@ -1,0 +1,26 @@
+[
+    {
+        "name": "John",
+        "age": 24,
+        "cv": {
+            "title": "Data Scientist",
+            "YOE": 2
+        }
+    },
+    {
+        "name": "Bruce",
+        "age": 28,
+        "cv": {
+            "title": "MLE",
+            "YOE": 5
+        }
+    },
+    {
+        "name": "Peter",
+        "age": 34,
+        "cv": {
+            "title": "Doctor",
+            "YOE": null
+        }
+    }
+]
